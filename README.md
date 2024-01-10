@@ -36,12 +36,7 @@ This project is open to any contributions. If you would like to submit a tool, p
 
 ## License 🏛️
 
-[![Attribution 4.0 International](https://licensebuttons.net/l/by/3.0/88x31.png)](https://github.com/Lissy93/awesome-privacy/blob/main/LICENSE)
-
 *Licensed under [Creative Commons, CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), © [Angelina Tsuboi](https://angelinatsuboi.com) 2024*
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[](https://github.com/jivoi/awesome-osint)
 
 ## Thank you 💜
 
@@ -51,3 +46,5 @@ This list was initialized by [Angelina Tsuboi](angelinatsuboi.com) for [Stellary
 
 If you found this resource helpful, please consider giving it a star and following me on [GitHub](https://github.com/ANG13T).
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[](https://github.com/jivoi/awesome-osint)
