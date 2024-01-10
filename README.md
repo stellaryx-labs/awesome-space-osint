@@ -7,3 +7,8 @@ A curated list of amazingly awesome open source intelligence tools and resources
 In the intelligence community (IC), the term "open" refers to overt, publicly available sources (as opposed to covert or clandestine sources)
 
 ## 📖 Table of Contents
+
+
+https://github.com/Lissy93/awesome-privacy
+
+https://raw.githubusercontent.com/soxoj/awesome-osint/master/README.md
