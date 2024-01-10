@@ -1,14 +1,53 @@
-# Awesome Space OSINT Tools  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+<p align="center"><a href="https://github.com/stellaryx-labs/awesome-space-osint"><img src="https://github.com/stellaryx-labs/awesome-space-osint/blob/main/images/icon.png" style=
+"width: 350px;"/></a></p>
 
-[<img src="https://github.com/jivoi/awesome-osint/raw/master/osint_logo.png" align="right" width="100">](https://github.com/jivoi/awesome-osint)
+<h1 align="center">Awesome Space OSINT Tools</h1> 
 
-A curated list of amazingly awesome open source intelligence tools and resources.
-[Open-source intelligence (OSINT)](https://en.wikipedia.org/wiki/Open-source_intelligence) is intelligence collected from publicly available sources.
-In the intelligence community (IC), the term "open" refers to overt, publicly available sources (as opposed to covert or clandestine sources)
+*<p align="center">A curated list of space OSINT programs created by <a href="https://stellaryxlabs.com/">Stellaryx Labs</a>🌌</p>* 
+A curated list of awesome open source intelligence tools and resources. [Open-source intelligence (OSINT)](https://en.wikipedia.org/wiki/Open-source_intelligence) is information gathered from publicly available sources. This repository features OSINT tools for the field of aerospace.
+
+## Submit a Tool
+If you have an OSINT tool you would like to have listed on this repository, follow the guide below:
+
 
 ## 📖 Table of Contents
 
+- **Essentials**
+  - [Password Managers](#password-managers)
+  - [2-Factor Authentication](#2-factor-authentication)
+  - [File Encryption](#file-encryption)
+  - [Private Browsers](#browsers)
+  - [Non-Tracking Search Engines](#search-engines)
+- **Communication**   
+  - [Encrypted Messaging](#encrypted-messaging)
+  - [P2P Messaging](#p2p-messaging)
+  - [Encrypted Email](#encrypted-email)
+  - [Email Clients](#email-clients)
 
-https://github.com/Lissy93/awesome-privacy
+## Essentials
 
-https://raw.githubusercontent.com/soxoj/awesome-osint/master/README.md
+| Provider | Description |
+| --- | --- |
+**[Bitwarden](https://bitwarden.com)**  | Fully-featured, open source password man
+
+
+## Contributing ✨
+This project is open to any contributions. If you would like to submit a tool, please follow this guide: 
+
+## License 🏛️
+
+[![Attribution 4.0 International](https://licensebuttons.net/l/by/3.0/88x31.png)](https://github.com/Lissy93/awesome-privacy/blob/main/LICENSE)
+
+*Licensed under [Creative Commons, CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), © [Angelina Tsuboi](https://angelinatsuboi.com) 2024*
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[](https://github.com/jivoi/awesome-osint)
+
+## Thank you 💜
+
+Thank you for checking out this project!
+
+This list was initialized by [Angelina Tsuboi](angelinatsuboi.com) for [Stellaryx Labs](https://stellaryxlabs.com/) with the help of other contributors!
+
+If you found this resource helpful, please consider giving it a star and following me on [GitHub](https://github.com/ANG13T).
+
