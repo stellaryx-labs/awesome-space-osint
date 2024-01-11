@@ -8,22 +8,166 @@ A curated list of awesome open source intelligence tools and resources. [Open-so
 
 ## Submit a Tool
 If you have an OSINT tool you would like to have listed on this repository, follow the guide below:
+
 [Tool Submission Guide](https://github.com/stellaryx-labs/awesome-space-osint/blob/main/CONTRIBUTING.md)
 
 ## 📖 Table of Contents
 
-- [Essentials]()
-- [Essentials]()
+- [Astronomy, Astrophysics, Astrometry, Astrodynamics, AAAA](#astronomy-astrophysics-astrometry-astrodynamics-aaaa)
+- [Aviation](#aviation)
+- [Ground Stations](#ground-stations)
+- [Launches](#launches)
+- [Mission Control](#mission-control)
+- [Remote Sensing](#remote-sensing)
+- [Satellite Tracking](#satellite-tracking)
+- [Signals Intelligence](#signals-intelligence)
+- [Space Databases](#space-databases)
+- [Space Situational Awareness](#space-situational-awareness)
+- [Space Weather Monitoring](#space-weather-monitoring)
+- [Spacecraft](#spacecraft)
+- [UAV & Drones](#uav--drones)
 
-## Essentials
+## Astronomy, Astrophysics, Astrometry, Astrodynamics, AAAA
 
-*The main search engines used by users.*
+*Tools related to astronomy, astrophysics, astrometry, and astrodynamics.*
 
 | Provider | Description |
 | --- | --- |
-**[Bitwarden](https://bitwarden.com)**  | Fully-featured, open source password man
 
-#### [↑ Back to Top](#-Table-of-Contents) 
+#### [↑ Back to Top](#-Table-of-Contents)
+
+---
+
+## Aviation
+
+*Resources related to aviation in the context of space OSINT.*
+
+| Provider | Description |
+| --- | --- |
+
+#### [↑ Back to Top](#-Table-of-Contents)
+
+---
+
+## Ground Stations
+
+*Tools and information related to ground stations for space communication.*
+
+| Provider | Description |
+| --- | --- |
+
+#### [↑ Back to Top](#-Table-of-Contents)
+
+---
+
+## Launches
+
+*Information and tools related to satellite launches.*
+
+| Provider | Description |
+| --- | --- |
+
+#### [↑ Back to Top](#-Table-of-Contents)
+
+---
+
+## Mission Control
+
+*Tools and resources for mission control in space operations.*
+
+| Provider | Description |
+| --- | --- |
+
+#### [↑ Back to Top](#-Table-of-Contents)
+
+---
+
+## Remote Sensing
+
+*Tools and information for analyzing remote sensing data in space OSINT.*
+
+| Provider | Description |
+| --- | --- |
+
+#### [↑ Back to Top](#-Table-of-Contents)
+
+---
+
+## Satellite Tracking
+
+*Tools for predicting and tracking satellite orbits.*
+
+| Provider | Description |
+| --- | --- |
+
+#### [↑ Back to Top](#-Table-of-Contents)
+
+---
+
+## Signals Intelligence
+
+*Resources and tools for signals intelligence in the context of space OSINT.*
+
+| Provider | Description |
+| --- | --- |
+
+#### [↑ Back to Top](#-Table-of-Contents)
+
+---
+
+## Space Databases
+
+*Databases containing information on various satellites.*
+
+| Provider | Description |
+| --- | --- |
+
+#### [↑ Back to Top](#-Table-of-Contents)
+
+---
+
+## Space Situational Awareness
+
+*Tools for tracking and analyzing space objects for situational awareness.*
+
+| Provider | Description |
+| --- | --- |
+
+#### [↑ Back to Top](#-Table-of-Contents)
+
+---
+
+## Space Weather Monitoring
+
+*Tools for monitoring space weather conditions.*
+
+| Provider | Description |
+| --- | --- |
+
+#### [↑ Back to Top](#-Table-of-Contents)
+
+---
+
+## Spacecraft
+
+*Information and tools related to various spacecraft.*
+
+| Provider | Description |
+| --- | --- |
+
+#### [↑ Back to Top](#-Table-of-Contents)
+
+---
+
+## UAV & Drones
+
+*Resources related to UAVs and drones in space OSINT.*
+
+| Provider | Description |
+| --- | --- |
+
+#### [↑ Back to Top](#-Table-of-Contents)
+
 
 ## Contributing ✨
 This project is open to any contributions. If you would like to submit a tool, please follow this guide: 
