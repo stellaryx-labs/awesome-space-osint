@@ -186,7 +186,7 @@ This project is open to any contributions. If you would like to submit a tool, p
 
 Thank you for checking out this project!
 
-This list was initialized by [Angelina Tsuboi](angelinatsuboi.com) for [Stellaryx Labs](https://stellaryxlabs.com/) with the help of other contributors!
+This list was initialized by [Angelina Tsuboi](https://angelinatsuboi.com) for [Stellaryx Labs](https://stellaryxlabs.com/) with the help of other contributors!
 
 If you found this resource helpful, please consider giving it a star and following me on [GitHub](https://github.com/ANG13T).
 
