@@ -12,24 +12,18 @@ If you have an OSINT tool you would like to have listed on this repository, foll
 
 ## 📖 Table of Contents
 
-- **Essentials**
-  - [Password Managers](#password-managers)
-  - [2-Factor Authentication](#2-factor-authentication)
-  - [File Encryption](#file-encryption)
-  - [Private Browsers](#browsers)
-  - [Non-Tracking Search Engines](#search-engines)
-- **Communication**   
-  - [Encrypted Messaging](#encrypted-messaging)
-  - [P2P Messaging](#p2p-messaging)
-  - [Encrypted Email](#encrypted-email)
-  - [Email Clients](#email-clients)
+- [Essentials]()
+- [Essentials]()
 
 ## Essentials
+
+*The main search engines used by users.*
 
 | Provider | Description |
 | --- | --- |
 **[Bitwarden](https://bitwarden.com)**  | Fully-featured, open source password man
 
+#### [↑ Back to Top](#-Table-of-Contents) 
 
 ## Contributing ✨
 This project is open to any contributions. If you would like to submit a tool, please follow this guide: 
