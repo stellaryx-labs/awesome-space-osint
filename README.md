@@ -33,6 +33,7 @@ If you have an OSINT tool you would like to have listed on this repository, foll
 
 | Provider | Description |
 | --- | --- |
+**[Astropy](https://github.com/astropy/astropy)**  | Astronomy and astrophysics core library
 
 #### [↑ Back to Top](#-Table-of-Contents)
 
@@ -40,10 +41,12 @@ If you have an OSINT tool you would like to have listed on this repository, foll
 
 ## Aviation
 
-*Resources related to aviation in the context of space OSINT.*
+*Resources for tracking aircraft and general aviation data*
 
 | Provider | Description |
 | --- | --- |
+**[Flight Aware](https://flightaware.com/)**  | A website providing real-time worldwide flight traffic information
+**[skytrack](https://github.com/ANG13T/skytrack)**  | skytrack is a planespotting and aircraft OSINT tool made using Python
 
 #### [↑ Back to Top](#-Table-of-Contents)
 
@@ -62,7 +65,7 @@ If you have an OSINT tool you would like to have listed on this repository, foll
 
 ## Launches
 
-*Information and tools related to satellite launches.*
+*Information and tools related to spacecraft launches.*
 
 | Provider | Description |
 | --- | --- |
@@ -99,6 +102,7 @@ If you have an OSINT tool you would like to have listed on this repository, foll
 
 | Provider | Description |
 | --- | --- |
+**[SatIntel](https://github.com/ANG13T/SatIntel)**  | OSINT tool for Satellites. Extract satellite telemetry, receive orbital predictions, and parse TLEs.
 
 #### [↑ Back to Top](#-Table-of-Contents)
 
