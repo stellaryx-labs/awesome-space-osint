@@ -8,7 +8,7 @@ A curated list of awesome open source intelligence tools and resources. [Open-so
 
 ## Submit a Tool
 If you have an OSINT tool you would like to have listed on this repository, follow the guide below:
-
+[Tool Submission Guide](https://github.com/stellaryx-labs/awesome-space-osint/blob/main/CONTRIBUTING.md)
 
 ## 📖 Table of Contents
 
@@ -33,6 +33,8 @@ If you have an OSINT tool you would like to have listed on this repository, foll
 
 ## Contributing ✨
 This project is open to any contributions. If you would like to submit a tool, please follow this guide: 
+
+[Tool Submission Guide](https://github.com/stellaryx-labs/awesome-space-osint/blob/main/CONTRIBUTING.md)
 
 ## License 🏛️
 
